@@ -35,7 +35,7 @@ A modern, responsive landing page for Verdant, a premium organic beverage brand 
 git clone <YOUR_GIT_URL>
 
 # Navigate to the project directory
-cd pastel-brews
+cd TanviKamath_Frontend
 
 # Install dependencies
 npm install
